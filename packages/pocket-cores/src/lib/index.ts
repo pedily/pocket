@@ -1,0 +1,1 @@
+export { fetchOpenFPGACoresInventory, OpenFPGACoreEntry } from "./openfpga-cores-inventory";
