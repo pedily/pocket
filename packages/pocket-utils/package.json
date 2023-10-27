@@ -1,5 +1,5 @@
 {
-  "name": "pocket-firmware",
+  "name": "pocket-utils",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.8.8",
     "typescript": "^5.2.2"
   },
   "dependencies": {
